@@ -1,0 +1,7 @@
+package sj;
+
+import javax.servlet.http.HttpServlet;
+
+public class FirstServlet extends HttpServlet {
+
+}
